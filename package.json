@@ -1,0 +1,39 @@
+{
+  "name": "Asali-Munafaa-FE",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/dotenv": "^1.4.1",
+    "@shopify/app-bridge": "^3.7.10",
+    "@shopify/app-bridge-utils": "^3.5.1",
+    "autoprefixer": "^10.4.19",
+    "axios": "^1.6.8",
+    "core-js": "^3.25.3",
+    "crypto": "^1.0.1",
+    "echarts": "^5.5.0",
+    "flowbite": "^2.3.0",
+    "nuxt": "^2.15.8",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.3",
+    "v-click-outside": "^3.2.0",
+    "vue": "^2.7.10",
+    "vue-avatar": "^2.3.3",
+    "vue-chartjs": "^3.5.1",
+    "vue-echarts": "^6.7.3",
+    "vue-google-charts": "^1.1.0",
+    "vue-server-renderer": "^2.7.10",
+    "vue-slick": "^1.2.0",
+    "vue-slick-carousel": "^1.0.6",
+    "vue-spinner": "^1.0.4",
+    "vue-template-compiler": "^2.7.10",
+    "vue-toast-notification": "^1.0.1",
+    "vue2-datepicker": "^3.11.1",
+    "vuejs-progress-bar": "^1.2.8"
+  }
+}
