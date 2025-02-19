@@ -3,7 +3,8 @@ import axios from "axios";
 const $axios = axios.create({
   // baseURL: "https://asali-munafaa-be.vercel.app",
   // baseURL: "https://asali-munaafa-be.vercel.app/"
-  baseURL: "http://localhost:8080",
+  // baseURL: "http://localhost:8080",
+  baseURL: "https://asali-munaafa-be.vercel.app",
 });
 
 $axios.interceptors.request.use(
